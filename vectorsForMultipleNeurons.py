@@ -15,7 +15,8 @@ output = np.dot(weights, inputs) + biases
 
 print(output)
 
-
+#the equation for weights * input + biases
+#is essentially the same as y=ax+m
 
 
 
